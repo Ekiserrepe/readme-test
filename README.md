@@ -1,5 +1,6 @@
 # Xahau
 [![X](https://img.shields.io/badge/follow-xahau_network-fffd57?style=for-the-badge&logo=x)](https://x.com/xahaunetwork)
+[![Gitbook](https://img.shields.io/badge/learn-xahau_docs-fffd57?style=for-the-badge&logo=gitbook)](https://docs.xahau.network/)
 [![Discord](https://img.shields.io/badge/participate-xahau_contributors-fffd57?style=for-the-badge&logo=discord)](https%3A%2F%2Fdiscord.gg%2Fds7nb93mYj)
 
 
@@ -35,6 +36,6 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 | Name                          | Link                                          |
 |-------------------------------|-----------------------------------------------|
 | Xaman                | [xaman.app](https://xaman.app/)|
-| Crossmark                 | [Crossmark](https://crossmark.io/))|
+| Crossmark                 | [Crossmark](https://crossmark.io/)|
 | GemWallet                 | [GemWallet](https://gemwallet.app/)|
-| D'CENT                 | [D'CENT](https://www.dcentwallet.com/))|
+| D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
