@@ -1,6 +1,7 @@
 # Xahau
-![Static Badge](https://img.shields.io/badge/build_on-xahau-fffd57?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/participate-xahau_contributors-fffd57?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2Fds7nb93mYj)
+[![X](https://img.shields.io/badge/follow-xahau_network-fffd57?style=for-the-badge&logo=x)](https://x.com/xahaunetwork)
+[![Discord](https://img.shields.io/badge/participate-xahau_contributors-fffd57?style=for-the-badge&logo=discord)](https%3A%2F%2Fdiscord.gg%2Fds7nb93mYj)
+
 
 
 
