@@ -26,3 +26,11 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 | XahauExplorer                 | [xahauexplorer.com](https://xahauexplorer.com)|
 | XRPLWin                       | [xahau.xrplwin.com](https://xahau.xrplwin.com)|
 | XAHScan                       | [xahscan.com](https://xahscan.com)            |
+
+### Wallets
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xaman                | [xaman.app](https://xaman.app/)|
+| Crossmark                 | [Crossmark](https://crossmark.io/))|
+| GemWallet                 | [GemWallet](https://gemwallet.app/)|
+| D'CENT                 | [D'CENT](https://www.dcentwallet.com/))|
