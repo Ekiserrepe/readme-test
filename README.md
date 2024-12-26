@@ -28,9 +28,18 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 ### 🔎 Explorers
 | Name                          | Link                                          |
 |-------------------------------|-----------------------------------------------|
+| Xahau Network                 | [explorer.xahau.network](https://explorer.xahau.network/)|
 | XahauExplorer                 | [xahauexplorer.com](https://xahauexplorer.com)|
 | XRPLWin                       | [xahau.xrplwin.com](https://xahau.xrplwin.com)|
 | XAHScan                       | [xahscan.com](https://xahscan.com)            |
+---
+### 🏗️ Dev Links
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| xahaud (server software)                 | [github.com](https://github.com/Xahau/xahaud)|
+| Hooks Builder                 | [hooks-builder.xrpl.org](https://hooks-builder.xrpl.org/)|
+| Hooks Toolkit                 | [hooks-toolkit.com](https://hooks-toolkit.com/)|
+| JS Hooks | [github.com](https://github.com/Xahau/jshooks-alpha)|
 ---
 ### 👛 Wallets
 | Name                          | Link                                          |
@@ -39,3 +48,11 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 | Crossmark                 | [Crossmark](https://crossmark.io/)|
 | GemWallet                 | [GemWallet](https://gemwallet.app/)|
 | D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
+---
+### 🎥 Media Links
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
+| JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
+| C Hooks Tutorial | [youtube.com]https://www.youtube.com/watch?v=XgQx49K81do)|
+---
