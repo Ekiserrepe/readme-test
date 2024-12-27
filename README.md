@@ -33,6 +33,13 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 | XRPLWin                       | [xahau.xrplwin.com](https://xahau.xrplwin.com)|
 | XAHScan                       | [xahscan.com](https://xahscan.com)            |
 ---
+### ⌨️ Client Libraries
+|Language| Name                          | Link                                          |
+|--------|-----------------------|-----------------------------------------------|
+| Python| xrpl-py   | [github.com](https://github.com/Xahau/xahau-py)|
+| JavaScript / TypeScript| xrpl.js (Patched)       | [github.com](https://github.com/Transia-RnD/xrpl.js)|
+| JavaScript / TypeScript| xrpl-accountlib    | [npmjs.com](https://www.npmjs.com/package/xrpl-accountlib)|
+---
 ### 🏗️ Dev Links
 | Name                          | Link                                          |
 |-------------------------------|-----------------------------------------------|
