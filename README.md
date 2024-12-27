@@ -39,6 +39,7 @@ Hooks (an exclusive feature for Xahau) add smart contract functionality to Xahau
 | xahaud (server software)                 | [github.com](https://github.com/Xahau/xahaud)|
 | Hooks Builder                 | [hooks-builder.xrpl.org](https://hooks-builder.xrpl.org/)|
 | Hooks Toolkit                 | [hooks-toolkit.com](https://hooks-toolkit.com/)|
+| Xahau Services                 | [xahau.services](https://xahau.services/)|
 | JS Hooks | [github.com](https://github.com/Xahau/jshooks-alpha)|
 ---
 ### 👛 Wallets
